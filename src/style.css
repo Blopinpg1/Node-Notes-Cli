@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+body h1 {
+  text-align: center;
+}
+.note {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 16px;
+  padding: 16px;
+}
+.tags {
+  margin-top: 8px;
+}
+.tag {
+  display: inline-block;
+  background: #007bff;
+  color: #fff;
+  border-radius: 4px;
+  padding: 2px 8px;
+  margin-right: 4px;
+  font-size: 12px;
+}

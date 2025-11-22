@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "tags": [
+        "work",
+        "serious"
+      ],
+      "id": 1759762956787,
+      "content": "clean my room"
+    },
+    {
+      "tags": [
+        "important",
+        "thisweek"
+      ],
+      "id": 1759762986610,
+      "content": "complete my assignment"
+    },
+    {
+      "tags": [
+        "3 pm ",
+        " daily"
+      ],
+      "id": 1759763027939,
+      "content": "walk the dog"
+    }
+  ]
+}
