@@ -103,4 +103,4 @@ ISC
 
 ---
 
-> Made with ❤️ using Node.js, yargs, and Jest
+> Made with Node.js, yargs, and Jest
