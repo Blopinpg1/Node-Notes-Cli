@@ -99,7 +99,7 @@ Pull requests are welcome! Feel free to open issues or suggest features.
 
 ## 📄 License
 
-ISC
+MIT
 
 ---
 
